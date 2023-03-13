@@ -1,0 +1,11 @@
+{
+    "name": "pulumi-image-id",
+    "main": "index.ts",
+    "devDependencies": {
+        "@types/node": "^16"
+    },
+    "dependencies": {
+        "@pulumi/hcloud": "^1.10.3",
+        "@pulumi/pulumi": "^3.0.0"
+    }
+}
